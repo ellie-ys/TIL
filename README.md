@@ -1,2 +1,2 @@
-# TIL
-오늘 배운 내용 저장하는 공간입니다.
+# TIL (Today I Learned) - ersonal wiki page
+# 오늘 배운건 오늘 적자
